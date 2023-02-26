@@ -9,3 +9,7 @@
 .colorDetalle {
     background-color: #003049;
 }
+
+.imgCarrousel { 
+    object-fit: center;
+}
